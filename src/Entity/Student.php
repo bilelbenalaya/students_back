@@ -38,9 +38,7 @@ class Student
      */
     private $phone;
 
-    /**
-     * @ORM\Column(type="string", length=255)
-     */
+
 
 
     public function getId(): ?int
